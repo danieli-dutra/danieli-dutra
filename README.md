@@ -3,14 +3,45 @@
 <!--
 **danieli-dutra/danieli-dutra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# 👋 Olá, eu sou a Danieli Dutra
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 Estudante de Análise e Desenvolvimento de Sistemas (UVA)
+💻 Desenvolvedora Full Stack em formação
+🧠 Foco em UX/UI e Inteligência Artificial
+
+---
+
+## 🧠 Sobre mim
+
+Estou em transição de carreira para a área de tecnologia, com foco em desenvolvimento web e construção de soluções digitais com propósito.
+
+Tenho background em design e organização de projetos, o que me permite enxergar não apenas o código, mas toda a experiência do usuário.
+
+Atualmente, estou aprofundando meus conhecimentos por meio de cursos, projetos práticos e estudo contínuo.
+
+---
+
+## 🚀 Projetos em destaque
+
+🔹 Em desenvolvimento — em breve projetos principais organizados aqui
+
+---
+
+## 🛠️ Tecnologias
+
+HTML • CSS • JavaScript • Git
+(em constante evolução)
+
+---
+
+## 🎯 Objetivo
+
+Evoluir como desenvolvedora, contribuir em projetos reais e construir soluções que gerem impacto.
+
+---
+
+## 📫 Contato
+
+🔗 LinkedIn: https://linkedin.com/in/danieli-dutra
+🔗 GitHub:  https://github.com/danieli-dutra
+
