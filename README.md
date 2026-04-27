@@ -2,9 +2,9 @@
 
 # 👋 Olá, eu sou a Danieli Dutra
 
-🎓 Estudante de Análise e Desenvolvimento de Sistemas (UVA)
-💻 Desenvolvedora Full Stack em formação
-🧠 Foco em UX/UI e Inteligência Artificial
+- 🎓 Estudante de Análise e Desenvolvimento de Sistemas (UVA)
+- 💻 Desenvolvedora Full Stack em formação
+- 🧠 Foco em UX/UI e Inteligência Artificial
 
 ---
 
