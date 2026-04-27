@@ -1,7 +1,4 @@
-## Hi there 👋
-
-<!--
-**danieli-dutra/danieli-dutra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hello World 👋
 
 # 👋 Olá, eu sou a Danieli Dutra
 
