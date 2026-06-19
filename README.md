@@ -30,7 +30,7 @@ Tenho interesse especial em projetos que conectem tecnologia, produto, UX/UI e I
 ▸ Desenvolvimento Full Stack
 ▸ React & aplicações web
 ▸ JavaScript
-- Node.js
+▸ Node.js
 ▸ Python para lógica e dados
 ▸ PostgreSQL & bancos relacionais
 ▸ Inteligência Artificial aplicada a produtos digitais
