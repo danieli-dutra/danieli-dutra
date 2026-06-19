@@ -70,6 +70,9 @@ Aplicação de finanças pessoais desenvolvida com foco em organização finance
 
 **Tecnologias:** IA Generativa • Lovable • UX/UI • Produto Digital
 
+ <img src="./assets/social-media.png" alt="Desktop" width="600">
+
+
 🌐 **Demo Online**
 https://grana-ai-assistente.lovable.app/
 
@@ -87,6 +90,7 @@ Calculadora de emissão de CO₂ voltada à conscientização ambiental, incenti
 **Tecnologias:** HTML • CSS • JavaScript
 
  <img src="./assets/screenshot-home-ecotrip.png" alt="Desktop" width="600">
+
 
 📂 **Repositório**
 https://github.com/danieli-dutra/ecotrip-calculadora-co2
