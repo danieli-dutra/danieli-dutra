@@ -2,25 +2,25 @@
   <img src="./assets/banner-gh-dani.png" alt="Banner" />
 </p>
 
-# 👩‍💻 Olá, eu sou a Dani Dutra!
+# Olá, eu sou a Dani Dutra! 👩‍💻
 
-### Desenvolvedora Full Stack em formação • UX/UI • Tecnologia & Produto
+Desenvolvedora Full Stack em formação • UX/UI • Tecnologia & Produto
 
-💡 **Transformando criatividade e análise em soluções digitais.**
+💡 Transformando criatividade e análise em soluções digitais.
 
-🎓 Estudante de **Análise e Desenvolvimento de Sistemas (ADS)**
-🚀 Formação **DEV Full Stack — +praTi & Codifica**
-📚 Bootcamps e projetos práticos na **DIO**
+- 🎓 Estudante de Análise e Desenvolvimento de Sistemas (ADS)
+- 🚀 Formação DEV Full Stack — +praTi & Codifica
+- 📚 Bootcamps e projetos práticos na DIO
 
 ---
 
-## ✨ Sobre mim
+✨ Sobre mim
 
-Sou uma profissional em transição para tecnologia, conectando **design, análise e desenvolvimento** para construir experiências digitais centradas no usuário.
+Sou estudante de Análise e Desenvolvimento de Sistemas e formada em Artes Digitais, construindo minha trajetória na interseção entre tecnologia, experiência do usuário e desenvolvimento de produtos digitais.
 
-Minha trajetória une **Artes Digitais, UX/UI, análise de dados e desenvolvimento Full Stack**, combinando visão criativa e pensamento analítico para resolver problemas reais.
+Minha experiência em design fortaleceu meu olhar para usabilidade, comunicação visual e resolução de problemas. Atualmente, venho ampliando essa base por meio do desenvolvimento Full Stack, explorando a criação de aplicações, banco de dados, inteligência artificial e soluções centradas no usuário.
 
-Estou aprofundando meus conhecimentos em **JavaScript, React, Node.js, Python e banco de dados**, desenvolvendo projetos práticos e evoluindo continuamente na construção de produtos digitais.
+Tenho interesse especial em projetos que conectem tecnologia, produto, UX/UI e IA, transformando ideias em experiências digitais funcionais e relevantes.
 
 ---
 
@@ -29,10 +29,11 @@ Estou aprofundando meus conhecimentos em **JavaScript, React, Node.js, Python e 
 ```txt
 ▸ Desenvolvimento Full Stack
 ▸ React & aplicações web
-▸ JavaScript moderno
+▸ JavaScript e React
+- Node.js
 ▸ Python para lógica e dados
 ▸ PostgreSQL & bancos relacionais
-▸ Inteligência Artificial aplicada
+▸ Inteligência Artificial aplicada a produtos digitais
 ▸ UX/UI & experiência do usuário
 ▸ Metodologias Ágeis
 ```
@@ -43,9 +44,21 @@ Estou aprofundando meus conhecimentos em **JavaScript, React, Node.js, Python e 
 
 ### 💻 Desenvolvimento
 
-### 🎨 Design & Produto
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,python,git,github" />
+</p>
 
-### 📊 Dados & Análise
+---
+
+🎨 Design & Produto
+
+UX/UI • Design Thinking • Adobe XD • Arquitetura da Informação • Prototipação
+
+--- 
+
+📊 Dados & Análise
+
+Python • PostgreSQL • Looker Studio • Análise de Dados
 
 ---
 
