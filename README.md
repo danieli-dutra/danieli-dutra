@@ -86,6 +86,8 @@ Calculadora de emissão de CO₂ voltada à conscientização ambiental, incenti
 
 **Tecnologias:** HTML • CSS • JavaScript
 
+ <img src="./assets/screenshot-home-ecotrip.png" alt="Desktop" width="600">
+
 📂 **Repositório**
 https://github.com/danieli-dutra/ecotrip-calculadora-co2
 
@@ -96,13 +98,17 @@ https://danieli-dutra.github.io/ecotrip-calculadora-co2/
 
 ### 🚲 Bike Café Gourmet — UX/UI Case
 
-<p align="center">
-  <img src="./assets/animacao-bcg-app.gif" alt="Bike Café Gourmet App" width="280">
-</p>
-
 Projeto acadêmico de UX/UI Design focado na criação de uma experiência digital para uma cafeteria temática voltada ao universo do ciclismo.
 
 **Tecnologias:** Adobe XD • UX/UI • Design Thinking • Prototipação
+
+<div style="display: flex; gap:100px; align-items: flex-start;">
+
+  <img src="./assets/animacao-bcg-app.gif" alt="Bike Café Gourmet App" width="280">
+
+  <img src="./assets/home-site-bcg.png" alt="Desktop" width="600">
+
+</div>
 
 📂 **Repositório**
 https://github.com/danieli-dutra/bike-cafe-gourmet-project
