@@ -29,7 +29,7 @@ Tenho interesse especial em projetos que conectem tecnologia, produto, UX/UI e I
 ```txt
 ▸ Desenvolvimento Full Stack
 ▸ React & aplicações web
-▸ JavaScript e React
+▸ JavaScript
 - Node.js
 ▸ Python para lógica e dados
 ▸ PostgreSQL & bancos relacionais
