@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./assets/banner-gh-dani.png" alt="Banner" />
+</p>
+
 # 👩‍💻 Olá, eu sou a Dani Dutra!
 
 ### Desenvolvedora Full Stack em formação • UX/UI • Tecnologia & Produto
