@@ -102,7 +102,7 @@ https://danieli-dutra.github.io/ecotrip-calculadora-co2/
 
 ### 🚲 Bike Café Gourmet — UX/UI Case
 
-Projeto acadêmico de UX/UI Design focado na criação de uma experiência digital para uma cafeteria temática voltada ao universo do ciclismo.
+Projeto acadêmico de UX/UI Design focado na criação de uma experiência digital para uma cafeteria intinerante.
 
 **Tecnologias:** Adobe XD • UX/UI • Design Thinking • Prototipação
 
