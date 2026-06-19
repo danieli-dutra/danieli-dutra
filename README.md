@@ -50,13 +50,13 @@ Tenho interesse especial em projetos que conectem tecnologia, produto, UX/UI e I
 
 ---
 
-🎨 Design & Produto
+### 🎨 Design & Produto
 
 UX/UI • Design Thinking • Adobe XD • Arquitetura da Informação • Prototipação
 
 --- 
 
-📊 Dados & Análise
+### 📊 Dados & Análise
 
 Python • PostgreSQL • Looker Studio • Análise de Dados
 
