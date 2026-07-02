@@ -4,38 +4,41 @@
 
 # Olá, eu sou a Dani Dutra! 👩‍💻
 
-Desenvolvedora Full Stack em formação • UX/UI • Tecnologia & Produto
+**Desenvolvedora Full Stack em formação • UX/UI • Tecnologia & Produto • IA Conversacional**
 
-💡 Transformando criatividade e análise em soluções digitais.
+💡 Construindo produtos digitais que unem tecnologia, design e inteligência artificial para resolver problemas reais.
 
 - 🎓 Estudante de Análise e Desenvolvimento de Sistemas (ADS)
-- 🚀 Formação DEV Full Stack — +praTi & Codifica
+- 🚀 Formação Full Stack — +praTi & Codifica
 - 📚 Bootcamps e projetos práticos na DIO
+- 💰 Desenvolvendo o **Grana.ai** como principal projeto da minha formação
 
 ---
 
 ✨ Sobre mim
 
-Sou estudante de Análise e Desenvolvimento de Sistemas e formada em Artes Digitais, construindo minha trajetória na interseção entre tecnologia, experiência do usuário e desenvolvimento de produtos digitais.
+Sou estudante de Análise e Desenvolvimento de Sistemas, formada em Artes Digitais e apaixonada por construir produtos digitais.
 
-Minha experiência em design fortaleceu meu olhar para usabilidade, comunicação visual e resolução de problemas. Atualmente, venho ampliando essa base por meio do desenvolvimento Full Stack, explorando a criação de aplicações, banco de dados, inteligência artificial e soluções centradas no usuário.
+Minha trajetória começou pelo design, onde desenvolvi uma forte base em experiência do usuário, comunicação visual e resolução de problemas. Hoje amplio essa visão através do desenvolvimento Full Stack, explorando arquitetura de software, aplicações web, bancos de dados e inteligência artificial aplicada a produtos.
 
-Tenho interesse especial em projetos que conectem tecnologia, produto, UX/UI e IA, transformando ideias em experiências digitais funcionais e relevantes.
+Tenho interesse especial por projetos que unem **engenharia de software, UX, produto e IA**, buscando criar experiências simples, úteis e escaláveis.
 
 ---
 
 ## 🚀 Atualmente estudando e construindo
 
 ```txt
-▸ Desenvolvimento Full Stack
-▸ React & aplicações web
+▸ Desenvolvendo o Grana.ai (Projeto Final +praTi & Codifica)
+▸ React & TypeScript
 ▸ JavaScript
 ▸ Node.js
 ▸ Python para lógica e dados
-▸ PostgreSQL & bancos relacionais
-▸ Inteligência Artificial aplicada a produtos digitais
+▸ PostgreSQL & Supabase
+▸ Arquitetura Full Stack
+▸ Inteligência Artificial Conversacional
 ▸ UX/UI & experiência do usuário
 ▸ Metodologias Ágeis
+▸ Git, GitHub e boas práticas de desenvolvimento
 ```
 
 ---
@@ -45,7 +48,7 @@ Tenho interesse especial em projetos que conectem tecnologia, produto, UX/UI e I
 ### 💻 Desenvolvimento
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,python,git,github" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,python,postgres,supabase,git,github,vscode" />
 </p>
 
 ---
@@ -64,22 +67,53 @@ Python • PostgreSQL • Looker Studio • Análise de Dados
 
 ## 📌 Projetos em Destaque
 
-### 💰 Grana.ai — Assistente Financeiro com IA
+# 💰 Grana.ai — AI Financial Assistant
 
-Aplicação de finanças pessoais desenvolvida com foco em organização financeira, experiência do usuário e exploração de ferramentas de IA para prototipação e validação de produto.
+> Um assistente financeiro conversacional que transforma linguagem natural em organização financeira, unindo inteligência artificial, UX e desenvolvimento Full Stack.
 
-**Tecnologias:** IA Generativa • Lovable • UX/UI • Produto Digital
+<img src="./assets/social-media.png" alt="Grana.ai" width="700">
 
- <img src="./assets/social-media.png" alt="Desktop" width="600">
+O **Grana.ai** é o principal projeto do meu portfólio e também o projeto final da minha formação em Desenvolvimento Full Stack.
 
+A proposta é tornar o controle financeiro mais simples e natural: em vez de preencher formulários ou planilhas, o usuário conversa com o sistema como faria com uma pessoa.
 
-🌐 **Demo Online**
-https://grana-ai-assistente.lovable.app/
+A partir dessas conversas, o aplicativo interpreta a intenção do usuário, organiza automaticamente receitas, despesas e metas financeiras, identifica padrões de comportamento e gera recomendações contextualizadas.
 
-📂 **Repositório**
-https://github.com/danieli-dutra/grana-ai-finance-assistant
+### ✨ Destaques
 
-📈 **Status:** Em evolução para desenvolvimento e manutenção direta em código.
+- 💬 Registro financeiro por linguagem natural
+- 🧠 IA conversacional com regras determinísticas
+- 📊 Dashboard financeiro integrado
+- ❤️ Score de Saúde Financeira contextual
+- 🎯 Metas financeiras e acompanhamento de progresso
+- 🔁 Detecção de recorrências e memória contextual
+- 🎨 UX focada em reduzir a fricção no controle financeiro
+
+### 🛠️ Stack
+
+`React` • `TypeScript` • `Supabase` • `Vite` • `Conversational AI` • `Product Thinking` • `UX/UI`
+
+### 🚧 Roadmap
+
+- Migração para arquitetura Full Stack (Spring Boot + PostgreSQL)
+- API REST própria
+- Testes automatizados
+- Validação com usuários
+- Evolução para um SaaS
+
+## Links
+
+📂 Código-fonte
+- https://github.com/danieli-dutra/grana-ai
+
+📋 Documentação
+- (em breve)
+
+🚀 Deploy
+- (em breve)
+
+📈 **Status**
+- Projeto em desenvolvimento ativo • Projeto Final da Formação Full Stack (+praTi & Codifica)
 
 ---
 
@@ -164,6 +198,6 @@ https://web.dio.me/users/danieli_dutra1/?tab=achievements
 
 ---
 
-✨ *Sempre aprendendo, construindo e evoluindo.*
+> *"Gosto de transformar ideias em produtos digitais. Hoje meu foco está em construir aplicações Full Stack que combinem engenharia, UX e inteligência artificial para resolver problemas reais."*
 
 
