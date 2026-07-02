@@ -110,7 +110,7 @@ A partir dessas conversas, o aplicativo interpreta a intenção do usuário, org
 - (em breve)
 
 🚀 Deploy
-- (em breve)
+- [Teste o Grana-ai](https://grana-ai-project.vercel.app/)
 
 📈 **Status**
 - Projeto em desenvolvimento ativo • Projeto Final da Formação Full Stack (+praTi & Codifica)
