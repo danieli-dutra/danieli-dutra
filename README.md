@@ -65,7 +65,9 @@ Design Systems • UX Research • Design Thinking • Arquitetura da Informaç�
 
 > **Front-end Engineering • Design System • UI Architecture**
 
-<img src="./assets/eon-preview.png" alt="EON" width="700">
+<p align="center">
+  <img src="./assets/eon-preview.gif" alt="EON — Interactive Web Experience" width="640">
+</p>
 
 A EON é uma experiência digital criada para demonstrar como design, engenharia e experiência do usuário podem trabalhar juntos na construção de interfaces modernas.
 
