@@ -1,203 +1,211 @@
 <p align="center">
-  <img src="./assets/banner-gh-dani.png" alt="Banner" />
+  <img src="./assets/banner-gh-dani.png" alt="Banner GitHub Dani Dutra" />
 </p>
 
-# Olá, eu sou a Dani Dutra! 👩‍💻
+# Olá, eu sou a Dani Dutra! 👋
 
-**Desenvolvedora Full Stack em formação • UX/UI • Tecnologia & Produto • IA Conversacional**
+**Desenvolvedora Full Stack em formação • UX/UI • Produto Digital • Inteligência Artificial**
 
-💡 Construindo produtos digitais que unem tecnologia, design e inteligência artificial para resolver problemas reais.
+💡 Construindo produtos digitais que unem engenharia de software, design e inteligência artificial para resolver problemas reais.
 
-- 🎓 Estudante de Análise e Desenvolvimento de Sistemas (ADS)
-- 🚀 Formação Full Stack — +praTi & Codifica
-- 📚 Bootcamps e projetos práticos na DIO
-- 💰 Desenvolvendo o **Grana.ai** como principal projeto da minha formação
-
----
-
-✨ Sobre mim
-
-Sou estudante de Análise e Desenvolvimento de Sistemas, formada em Artes Digitais e apaixonada por construir produtos digitais.
-
-Minha trajetória começou pelo design, onde desenvolvi uma forte base em experiência do usuário, comunicação visual e resolução de problemas. Hoje amplio essa visão através do desenvolvimento Full Stack, explorando arquitetura de software, aplicações web, bancos de dados e inteligência artificial aplicada a produtos.
-
-Tenho interesse especial por projetos que unem **engenharia de software, UX, produto e IA**, buscando criar experiências simples, úteis e escaláveis.
+- 🎓 Estudante de Análise e Desenvolvimento de Sistemas (UVA)
+- 🚀 Desenvolvedora Full Stack em formação pela +praTi & Codifica
+- 📚 Participante ativa de bootcamps, hackathons e projetos práticos
+- ❤️ Apaixonada por criar experiências digitais bem projetadas e bem construídas
 
 ---
 
-## 🚀 Atualmente estudando e construindo
+# ✨ Sobre mim
+
+Minha formação em **Artes Digitais** despertou meu interesse por design, comunicação visual e experiência do usuário. Hoje amplio essa visão através do desenvolvimento Full Stack, explorando arquitetura de software, aplicações web, bancos de dados e inteligência artificial aplicada a produtos.
+
+Gosto de participar da construção de soluções do início ao fim: entendendo o problema, projetando a experiência, desenvolvendo a aplicação e evoluindo o produto de forma contínua.
+
+Tenho especial interesse na interseção entre **Software Engineering**, **UX**, **Product Thinking** e **Inteligência Artificial**.
+
+---
+
+# 🚀 Atualmente
 
 ```txt
-▸ Desenvolvendo o Grana.ai (Projeto Final +praTi & Codifica)
-▸ React & TypeScript
-▸ JavaScript
+▸ Desenvolvendo o Grana.ai
+▸ React + TypeScript
 ▸ Node.js
-▸ Python para lógica e dados
 ▸ PostgreSQL & Supabase
 ▸ Arquitetura Full Stack
 ▸ Inteligência Artificial Conversacional
-▸ UX/UI & experiência do usuário
-▸ Metodologias Ágeis
-▸ Git, GitHub e boas práticas de desenvolvimento
+▸ UX & Produto
 ```
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
 ### 💻 Desenvolvimento
 
-<p align="left">
+<p>
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,python,postgres,supabase,git,github,vscode" />
 </p>
 
----
-
 ### 🎨 Design & Produto
 
-UX/UI • Design Thinking • Adobe XD • Arquitetura da Informação • Prototipação
+<p>
+  <img src="https://skillicons.dev/icons?i=figma,ps,ai" />
+</p>
 
---- 
+**Também trabalho com:**
 
-### 📊 Dados & Análise
-
-Python • PostgreSQL • Looker Studio • Análise de Dados
+Design Systems • UX Research • Design Thinking • Arquitetura da Informação • Prototipação • Product Thinking
 
 ---
 
-## 📌 Projetos em Destaque
+# 🚀 Projetos em Destaque
 
-# 💰 Grana.ai — AI Financial Assistant
+## 🚀 EON — Interactive Web Experience
 
-> Um assistente financeiro conversacional que transforma linguagem natural em organização financeira, unindo inteligência artificial, UX e desenvolvimento Full Stack.
+> **Front-end Engineering • Design System • UI Architecture**
+
+<img src="./assets/eon-preview.png" alt="EON" width="700">
+
+A EON é uma experiência digital criada para demonstrar como design, engenharia e experiência do usuário podem trabalhar juntos na construção de interfaces modernas.
+
+O projeto foi desenvolvido com foco em arquitetura Front-end, Design System, componentização, documentação técnica e boas práticas de desenvolvimento.
+
+### ✨ Destaques
+
+- 🎨 Design System próprio
+- 🧩 Arquitetura baseada em componentes
+- 📱 Interface responsiva
+- ✨ Microinterações e animações
+- 🌐 Integração com API ViaCEP
+- 📚 Documentação técnica
+- 🔀 Fluxo Git utilizando branches
+
+### 🛠️ Stack
+
+React • JavaScript • HTML • CSS • Vite • Design System
+
+### 🔗 Links
+
+🚀 **Deploy**
+
+https://eon-experience.vercel.app/
+
+📂 **Repositório**
+
+https://github.com/danieli-dutra/eon-experience
+
+---
+
+## 💰 Grana.ai — AI Financial Assistant
+
+> **Product Thinking • Full Stack • Conversational AI**
 
 <img src="./assets/social-media.png" alt="Grana.ai" width="700">
 
-O **Grana.ai** é o principal projeto do meu portfólio e também o projeto final da minha formação em Desenvolvimento Full Stack.
+O Grana.ai é um assistente financeiro conversacional que transforma linguagem natural em organização financeira.
 
-A proposta é tornar o controle financeiro mais simples e natural: em vez de preencher formulários ou planilhas, o usuário conversa com o sistema como faria com uma pessoa.
-
-A partir dessas conversas, o aplicativo interpreta a intenção do usuário, organiza automaticamente receitas, despesas e metas financeiras, identifica padrões de comportamento e gera recomendações contextualizadas.
+O projeto combina UX, inteligência artificial e desenvolvimento Full Stack para criar uma experiência mais natural de controle financeiro, permitindo registrar movimentações, acompanhar metas e gerar recomendações contextualizadas.
 
 ### ✨ Destaques
 
 - 💬 Registro financeiro por linguagem natural
-- 🧠 IA conversacional com regras determinísticas
-- 📊 Dashboard financeiro integrado
-- ❤️ Score de Saúde Financeira contextual
-- 🎯 Metas financeiras e acompanhamento de progresso
-- 🔁 Detecção de recorrências e memória contextual
-- 🎨 UX focada em reduzir a fricção no controle financeiro
+- 🧠 IA Conversacional
+- 📊 Dashboard Financeiro
+- ❤️ Score de Saúde Financeira
+- 🎯 Gestão de metas
+- 🔁 Memória contextual
 
 ### 🛠️ Stack
 
-`React` • `TypeScript` • `Supabase` • `Vite` • `Conversational AI` • `Product Thinking` • `UX/UI`
+React • TypeScript • Supabase • Vite • UX/UI • Product Thinking
 
-### 🚧 Roadmap
+### 🔗 Links
 
-- Migração para arquitetura Full Stack (Spring Boot + PostgreSQL)
-- API REST própria
-- Testes automatizados
-- Validação com usuários
-- Evolução para um SaaS
+🚀 **Deploy**
 
-## Links
+https://grana-ai-project.vercel.app/
 
-📂 Código-fonte
-- https://github.com/danieli-dutra/grana-ai
+📂 **Repositório**
 
-📋 Documentação
-- (em breve)
-
-🚀 Deploy
-- [Teste o Grana-ai](https://grana-ai-project.vercel.app/)
-
-📈 **Status**
-- Projeto em desenvolvimento ativo • Projeto Final da Formação Full Stack (+praTi & Codifica)
+https://github.com/danieli-dutra/grana-ai
 
 ---
 
-### 🌱 EcoTrip — Calculadora de CO₂
+## 🌱 EcoTrip — Calculadora de CO₂
 
-Calculadora de emissão de CO₂ voltada à conscientização ambiental, incentivando escolhas mais sustentáveis através de estimativas de impacto.
+> **JavaScript • API Integration • Responsive Web**
 
-**Tecnologias:** HTML • CSS • JavaScript
+<img src="./assets/screenshot-home-ecotrip.png" alt="EcoTrip" width="650">
 
- <img src="./assets/screenshot-home-ecotrip.png" alt="Desktop" width="600">
+Calculadora de emissão de CO₂ desenvolvida para incentivar escolhas mais sustentáveis através da estimativa do impacto ambiental.
 
+### 🛠️ Stack
 
-📂 **Repositório**
-https://github.com/danieli-dutra/ecotrip-calculadora-co2
+HTML • CSS • JavaScript
 
-🌐 **Aplicação Online**
+### 🔗 Links
+
+🚀 **Deploy**
+
 https://danieli-dutra.github.io/ecotrip-calculadora-co2/
 
+📂 **Repositório**
+
+https://github.com/danieli-dutra/ecotrip-calculadora-co2
+
 ---
 
-### 🚲 Bike Café Gourmet — UX/UI Case
+## 🚲 Bike Café Gourmet — From UX to Development
 
-Projeto acadêmico de UX/UI Design focado na criação de uma experiência digital para uma cafeteria intinerante.
+> **UX Research • Product Design • Front-end Development**
 
-**Tecnologias:** Adobe XD • UX/UI • Design Thinking • Prototipação
+<p align="center">
+  <img src="./assets/animacao-bcg-app.gif" alt="Bike Café Gourmet" width="260">
+</p>
 
-<div style="display: flex; gap:100px; align-items: flex-start;">
+O Bike Café Gourmet evoluiu de um estudo de UX/UI para uma aplicação web, acompanhando diferentes etapas da construção de um produto digital, desde a pesquisa e prototipação até a implementação da interface.
 
-  <img src="./assets/animacao-bcg-app.gif" alt="Bike Café Gourmet App" width="280">
+### ✨ Destaques
 
-  <img src="./assets/home-site-bcg.png" alt="Desktop" width="600">
+- 🔍 Pesquisa e UX
+- 🧩 Arquitetura da Informação
+- 🎨 Prototipação Desktop e Mobile
+- 💻 Desenvolvimento Front-end
+- 📱 Interface Responsiva
 
-</div>
+### 🛠️ Stack
+
+HTML • CSS • JavaScript • Adobe XD • UX/UI • Design Thinking
+
+### 🔗 Links
 
 📂 **Repositório**
+
 https://github.com/danieli-dutra/bike-cafe-gourmet-project
 
 💻 **Protótipo Desktop**
+
 https://xd.adobe.com/view/5f696a25-8a97-452d-498f-3ae0b0bf2828-2958/
 
 📱 **Protótipo Mobile**
+
 https://xd.adobe.com/view/b60a37e1-dfdb-4553-6ae8-94faa6243c10-c03b/?fullscreen&hints=off
 
 ---
 
-### 🎨 D2B Gourmet — Branding, Design System & IA
+# 🌎 Vamos nos conectar?
 
-Projeto que conecta branding, identidade visual e inteligência artificial, explorando a construção de marca, documentação visual e aplicações voltadas para produto digital.
+<p align="left">
+  <a href="https://www.linkedin.com/in/danieli-dutra/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
 
-**Tecnologias:** Branding • Design System • IA • Design de Produto
-
-📂 **Branding & Design System**
-https://github.com/danieli-dutra/d2b-gourmet-branding-design-system
-
-🤖 **Agente de Vendas com IA**
-https://github.com/danieli-dutra/d2b-gourmet-agente-vendas
-
----
-
-### 🐍 Python, Dados & Insights
-
-Projetos voltados para lógica de programação, manipulação de dados e geração de insights através de análises exploratórias e visualização de informações.
-
-**Tecnologias:** Python • Análise de Dados • Looker Studio
-
-📂 **Projetos em Python**
-https://colab.research.google.com/drive/1aIekZlYS6jKqa7BbYCBlPHq_ZYt7SWDt?usp=sharing
-
-📊 **Dashboard Interativo**
-https://datastudio.google.com/reporting/cec2becd-49c3-4d0b-a0ea-a1fab1c71b87
+  <a href="https://github.com/danieli-dutra" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+</p>
 
 ---
 
-
-## 🌎 Onde me encontrar
-
-💼 **LinkedIn**
-https://www.linkedin.com/in/danieli-dutra/
-
-🚀 **DIO**
-https://web.dio.me/users/danieli_dutra1/?tab=achievements
-
----
-
-> *"Gosto de transformar ideias em produtos digitais. Hoje meu foco está em construir aplicações Full Stack que combinem engenharia, UX e inteligência artificial para resolver problemas reais."*
-
-
+> *"Acredito que bons produtos nascem do equilíbrio entre tecnologia, experiência do usuário e entendimento profundo do problema."*
