@@ -79,7 +79,7 @@ O projeto foi desenvolvido com foco em arquitetura Front-end, Design System, com
 - 🧩 Arquitetura baseada em componentes
 - 📱 Interface responsiva
 - ✨ Microinterações e animações
-- 🌐 Integração com API ViaCEP
+- 🌐 Integração com API Formspree
 - 📚 Documentação técnica
 - 🔀 Fluxo Git utilizando branches
 
