@@ -99,38 +99,38 @@ https://github.com/danieli-dutra/eon-experience
 
 ---
 
-## 💰 Grana.ai — AI Financial Assistant
+## 🤝 Junta.ai — Conversational Financial Companion
 
-> **Product Thinking • Full Stack • Conversational AI**
+> **Product Engineering • Conversational AI • UX**
 
-<img src="./assets/social-media.png" alt="Grana.ai" width="700">
+<p align="center">
+  <img src="./assets/sm-junta-ai.png" alt="Junta.ai" width="700">
+</p>
 
-O Grana.ai é um assistente financeiro conversacional que transforma linguagem natural em organização financeira.
-
-O projeto combina UX, inteligência artificial e desenvolvimento Full Stack para criar uma experiência mais natural de controle financeiro, permitindo registrar movimentações, acompanhar metas e gerar recomendações contextualizadas.
+O **Junta.ai** é um parceiro financeiro conversacional que utiliza inteligência artificial para transformar conversas naturais em uma experiência de organização financeira mais simples, personalizada e centrada no usuário.
 
 ### ✨ Destaques
 
+- 🤝 Experiência conversacional centrada no usuário
 - 💬 Registro financeiro por linguagem natural
-- 🧠 IA Conversacional
-- 📊 Dashboard Financeiro
-- ❤️ Score de Saúde Financeira
+- 🧠 IA com memória contextual
+- 📊 Dashboard financeiro integrado
 - 🎯 Gestão de metas
-- 🔁 Memória contextual
+- ❤️ Score de Saúde Financeira
 
 ### 🛠️ Stack
 
-React • TypeScript • Supabase • Vite • UX/UI • Product Thinking
+React • JavaScript • Vite • Conversational AI • Product Thinking • UX/UI
 
 ### 🔗 Links
 
-🚀 **Deploy**
+🚀 **Protótipo**
 
 https://grana-ai-project.vercel.app/
 
 📂 **Repositório**
 
-https://github.com/danieli-dutra/grana-ai
+https://github.com/danieli-dutra/junta-ai
 
 ---
 
