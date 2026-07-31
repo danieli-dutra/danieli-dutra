@@ -99,7 +99,7 @@ https://github.com/danieli-dutra/eon-experience
 
 ---
 
-## 🤝 Junta.ai — Conversational Financial Companion
+## 🤝 Junta.ai — Assistente Financeiro Conversacional
 
 > **Product Engineering • Conversational AI • UX**
 
