@@ -29,11 +29,11 @@ Tenho especial interesse na interseção entre **Software Engineering**, **UX**,
 
 ```txt
 ▸ Desenvolvendo o Grana.ai
-▸ React + TypeScript
+▸ React + JavaScript
 ▸ Node.js
 ▸ PostgreSQL & Supabase
 ▸ Arquitetura Full Stack
-▸ Inteligência Artificial Conversacional
+▸ Inteligência Artificial Conversacional (MCP + CrewAi)
 ▸ UX & Produto
 ```
 
