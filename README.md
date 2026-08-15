@@ -124,13 +124,13 @@ React • JavaScript • Vite • Conversational AI • Product Thinking • UX/
 
 ### 🔗 Links
 
-🚀 **Protótipo**
+🚀 **Junta.ai [em desenvolvimento]**
 
-https://grana-ai-project.vercel.app/
+https://junta-ai.vercel.app/
 
 📂 **Repositório**
 
-https://github.com/danieli-dutra/junta-ai
+https://github.com/Junta-ai-br/junta-ai
 
 ---
 
