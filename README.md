@@ -71,7 +71,7 @@ UX/UI • Design Systems • Design Thinking • Arquitetura da Informação •
 
 # 🚀 Projetos em Destaque
 
-## 🤝 Junta.ai — Parceiro Financeiro Conversacional
+## 🤝 Junta.ai | Parceiro Financeiro Conversacional
 
 > **Product Engineering • Conversational AI • UX/UI**
 
@@ -110,7 +110,7 @@ https://github.com/Junta-ai-br/junta-ai
 
 ---
 
-## 🧪 Planeja.ai — Case de Experimentação e Evolução
+## 🐷 Planeja.ai | Case de Experimentação e Evolução
 
 > **React • TypeScript • Generative AI • Product Thinking**
 
@@ -145,7 +145,7 @@ https://github.com/danieli-dutra/planeja-ai
 
 ---
 
-## 🚀 EON — Interactive Web Experience
+## 🚀 EON | Interactive Web Experience
 
 > **Front-end Engineering • Design System • UI Architecture**
 
@@ -181,7 +181,7 @@ https://github.com/danieli-dutra/eon-experience
 
 ---
 
-## 🌱 EcoTrip — Calculadora de CO₂
+## 🌱 EcoTrip | Calculadora de CO₂
 
 > **JavaScript • API Integration • Responsive Web**
 
@@ -205,7 +205,7 @@ https://github.com/danieli-dutra/ecotrip-calculadora-co2
 
 ---
 
-## 🚲 Bike Café Gourmet — From UX to Development
+## 🚲 Bike Café Gourmet | From UX to Development
 
 > **UX Research • Product Design • Front-end Development**
 
