@@ -114,6 +114,11 @@ https://github.com/Junta-ai-br/junta-ai
 
 > **React • TypeScript • Generative AI • Product Thinking**
 
+<p align="center">
+  <img src="./assets/planeja-ai-preview.gif" alt="Planeja.ai — fluxo de simulação financeira" width="700">
+</p>
+
+
 O **Planeja.ai** surgiu a partir de um desafio de desenvolvimento com uma base de código existente. A partir dela, evoluí a aplicação explorando decisões de produto, experiência e funcionalidades para transformar uma simulação financeira em uma experiência mais interativa e orientada a insights.
 
 O projeto foi uma oportunidade para experimentar soluções, trabalhar sobre uma base existente e aplicar aprendizados que contribuíram para minha evolução em desenvolvimento e Product Thinking.
