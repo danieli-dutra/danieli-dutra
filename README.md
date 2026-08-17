@@ -4,37 +4,41 @@
 
 # Olá, eu sou a Dani Dutra! 👋
 
-**Desenvolvedora Full Stack em formação • UX/UI • Produto Digital • Inteligência Artificial**
+**Full Stack Developer em formação • IA • UX/UI • Produtos Digitais**
 
-💡 Construindo produtos digitais que unem engenharia de software, design e inteligência artificial para resolver problemas reais.
+Estudante de Análise e Desenvolvimento de Sistemas (UVA) e desenvolvedora Full Stack em formação pela +praTi & Codifica. Exploro a interseção entre desenvolvimento de software, Inteligência Artificial, UX/UI e Product Thinking na construção de produtos digitais.
 
-- 🎓 Estudante de Análise e Desenvolvimento de Sistemas (UVA)
-- 🚀 Desenvolvedora Full Stack em formação pela +praTi & Codifica
-- 📚 Participante ativa de bootcamps, hackathons e projetos práticos
-- ❤️ Apaixonada por criar experiências digitais bem projetadas e bem construídas
+- 🎓 Análise e Desenvolvimento de Sistemas (UVA)
+- 💻 Desenvolvimento Full Stack
+- 🤖 Inteligência Artificial e agentes de IA
+- 🎨 UX/UI e Design Systems
+- 🧩 Product Thinking
+- 🚀 Projetos práticos e desenvolvimento colaborativo
 
 ---
 
 # ✨ Sobre mim
 
-Minha formação em **Artes Digitais** despertou meu interesse por design, comunicação visual e experiência do usuário. Hoje amplio essa visão através do desenvolvimento Full Stack, explorando arquitetura de software, aplicações web, bancos de dados e inteligência artificial aplicada a produtos.
+Minha formação em Artes Digitais despertou meu interesse por design, experiência do usuário e construção de produtos digitais. Hoje, amplio essa perspectiva através do desenvolvimento Full Stack e do estudo de Inteligência Artificial, dados e engenharia de software.
 
-Gosto de participar da construção de soluções do início ao fim: entendendo o problema, projetando a experiência, desenvolvendo a aplicação e evoluindo o produto de forma contínua.
+Gosto de entender o problema antes de pensar na solução, participar da construção do produto e evoluí-lo a partir dos resultados e dos aprendizados do processo.
 
-Tenho especial interesse na interseção entre **Software Engineering**, **UX**, **Product Thinking** e **Inteligência Artificial**.
+Tenho especial interesse na interseção entre **Software Engineering**, **UX/UI**, **Product Thinking** e **Inteligência Artificial**.
 
 ---
 
 # 🚀 Atualmente
 
 ```txt
-▸ Desenvolvendo o Grana.ai
+▸ Desenvolvendo o Junta.ai
 ▸ React + JavaScript
-▸ Node.js
-▸ PostgreSQL & Supabase
-▸ Arquitetura Full Stack
-▸ Inteligência Artificial Conversacional (MCP + CrewAi)
-▸ UX & Produto
+▸ Desenvolvimento Full Stack
+▸ UX/UI + Design Systems
+▸ Product Thinking
+▸ Inteligência Artificial aplicada a produtos
+▸ Estudando Java e modelagem de sistemas
+▸ Próximos estudos: bancos de dados e Spring
+▸ Explorando CrewAI e desenvolvimento de agentes de IA
 ```
 
 ---
@@ -44,7 +48,13 @@ Tenho especial interesse na interseção entre **Software Engineering**, **UX**,
 ### 💻 Desenvolvimento
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,python,postgres,supabase,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,python,postgres,git,github,vscode" />
+</p>
+
+### 📚 Em aprendizado
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,spring,nodejs" />
 </p>
 
 ### 🎨 Design & Produto
@@ -55,11 +65,85 @@ Tenho especial interesse na interseção entre **Software Engineering**, **UX**,
 
 **Também trabalho com:**
 
-Design Systems • UX Research • Design Thinking • Arquitetura da Informação • Prototipação • Product Thinking
+UX/UI • Design Systems • Design Thinking • Arquitetura da Informação • Prototipação • Product Thinking
 
 ---
 
 # 🚀 Projetos em Destaque
+
+## 🤝 Junta.ai — Parceiro Financeiro Conversacional
+
+> **Product Engineering • Conversational AI • UX/UI**
+
+<p align="center">
+  <img src="./assets/sm-junta-ai.png" alt="Junta.ai" width="700">
+</p>
+
+O **Junta.ai** é um parceiro financeiro conversacional desenvolvido para tornar a organização financeira mais simples e acessível. A proposta é permitir que o usuário registre informações, acompanhe sua vida financeira e tome decisões através de uma interação natural com o sistema.
+
+Idealizei o projeto e atualmente participo de seu desenvolvimento colaborativo como Projeto Final da formação Full Stack da +praTi & Codifica.
+
+### ✨ Atuação
+
+- 💻 Desenvolvimento Front-end com React e JavaScript
+- 🎨 UX/UI e Design System
+- 🧠 Product Thinking e definição de requisitos
+- 💬 Modelagem de fluxos conversacionais
+- 🧩 Arquitetura e evolução do produto
+- 📚 Documentação técnica
+- 🧪 Testes e debugging
+- 🔀 Git/GitHub e desenvolvimento colaborativo
+
+### 🛠️ Stack
+
+React • JavaScript • Vite • Conversational AI • UX/UI • Product Thinking
+
+### 🔗 Links
+
+🚀 **Junta.ai [em desenvolvimento]**
+
+https://junta-ai.vercel.app/
+
+📂 **Repositório**
+
+https://github.com/Junta-ai-br/junta-ai
+
+---
+
+## 🧪 Planeja.ai — Case de Experimentação e Evolução
+
+> **React • TypeScript • Generative AI • Product Thinking**
+
+O **Planeja.ai** surgiu a partir de um desafio de desenvolvimento com uma base de código existente. A partir dela, evoluí a aplicação explorando decisões de produto, experiência e funcionalidades para transformar uma simulação financeira em uma experiência mais interativa e orientada a insights.
+
+O projeto foi uma oportunidade para experimentar soluções, trabalhar sobre uma base existente e aplicar aprendizados que contribuíram para minha evolução em desenvolvimento e Product Thinking.
+
+### ✨ Destaques
+
+- 🧩 Evolução de uma base de código existente
+- 🧠 Diagnóstico financeiro personalizado com IA Generativa
+- 📊 Histórico de análises com persistência local
+- 🎯 Simulador interativo de prazos
+- 💡 Insights financeiros personalizados
+- 🌗 Tema claro e escuro
+- ⚡ Tratamento de estados de carregamento e erro
+- 🔌 Integração com API Gemini através de função serverless
+
+### 🛠️ Stack
+
+React • TypeScript • Vite • Gemini API • Generative AI • JavaScript • Tailwind CSS
+
+### 🔗 Links
+
+🚀 **Deploy**
+
+https://planeja-ai-br.vercel.app/
+
+📂 **Repositório**
+
+https://github.com/danieli-dutra/planeja-ai
+
+---
 
 ## 🚀 EON — Interactive Web Experience
 
@@ -69,9 +153,7 @@ Design Systems • UX Research • Design Thinking • Arquitetura da Informaç�
   <img src="./assets/eon-preview.gif" alt="EON — Interactive Web Experience" width="640">
 </p>
 
-A EON é uma experiência digital criada para demonstrar como design, engenharia e experiência do usuário podem trabalhar juntos na construção de interfaces modernas.
-
-O projeto foi desenvolvido com foco em arquitetura Front-end, Design System, componentização, documentação técnica e boas práticas de desenvolvimento.
+Experiência digital desenvolvida para explorar a integração entre engenharia Front-end, Design System e experiência do usuário.
 
 ### ✨ Destaques
 
@@ -79,9 +161,9 @@ O projeto foi desenvolvido com foco em arquitetura Front-end, Design System, com
 - 🧩 Arquitetura baseada em componentes
 - 📱 Interface responsiva
 - ✨ Microinterações e animações
-- 🌐 Integração com API Formspree
+- 🌐 Integração com Formspree
 - 📚 Documentação técnica
-- 🔀 Fluxo Git utilizando branches
+- 🔀 Fluxo Git com branches
 
 ### 🛠️ Stack
 
@@ -99,48 +181,13 @@ https://github.com/danieli-dutra/eon-experience
 
 ---
 
-## 🤝 Junta.ai — Assistente Financeiro Conversacional
-
-> **Product Engineering • Conversational AI • UX**
-
-<p align="center">
-  <img src="./assets/sm-junta-ai.png" alt="Junta.ai" width="700">
-</p>
-
-O **Junta.ai** é um parceiro financeiro conversacional que utiliza inteligência artificial para transformar conversas naturais em uma experiência de organização financeira mais simples, personalizada e centrada no usuário.
-
-### ✨ Destaques
-
-- 🤝 Experiência conversacional centrada no usuário
-- 💬 Registro financeiro por linguagem natural
-- 🧠 IA com memória contextual
-- 📊 Dashboard financeiro integrado
-- 🎯 Gestão de metas
-- ❤️ Score de Saúde Financeira
-
-### 🛠️ Stack
-
-React • JavaScript • Vite • Conversational AI • Product Thinking • UX/UI
-
-### 🔗 Links
-
-🚀 **Junta.ai [em desenvolvimento]**
-
-https://junta-ai.vercel.app/
-
-📂 **Repositório**
-
-https://github.com/Junta-ai-br/junta-ai
-
----
-
 ## 🌱 EcoTrip — Calculadora de CO₂
 
 > **JavaScript • API Integration • Responsive Web**
 
 <img src="./assets/screenshot-home-ecotrip.png" alt="EcoTrip" width="650">
 
-Calculadora de emissão de CO₂ desenvolvida para incentivar escolhas mais sustentáveis através da estimativa do impacto ambiental.
+Aplicação web que estima emissões de CO₂ a partir de diferentes meios de transporte, utilizando dados de uma API para calcular o impacto das viagens.
 
 ### 🛠️ Stack
 
@@ -166,7 +213,7 @@ https://github.com/danieli-dutra/ecotrip-calculadora-co2
   <img src="./assets/animacao-bcg-app.gif" alt="Bike Café Gourmet" width="260">
 </p>
 
-O Bike Café Gourmet evoluiu de um estudo de UX/UI para uma aplicação web, acompanhando diferentes etapas da construção de um produto digital, desde a pesquisa e prototipação até a implementação da interface.
+Projeto que evoluiu de um estudo de UX/UI para uma aplicação web, passando por pesquisa, arquitetura da informação, prototipação e implementação da interface.
 
 ### ✨ Destaques
 
@@ -210,4 +257,4 @@ https://xd.adobe.com/view/b60a37e1-dfdb-4553-6ae8-94faa6243c10-c03b/?fullscreen&
 
 ---
 
-> *"Acredito que bons produtos nascem do equilíbrio entre tecnologia, experiência do usuário e entendimento profundo do problema."*
+> **Entender o problema. Construir a solução. Aprender com o processo. Evoluir o produto.**
